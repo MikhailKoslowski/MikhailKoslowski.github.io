@@ -3,6 +3,8 @@ published: true
 title: Viagem México
 layout: post
 ---
+![](https://github.com/MikhailKoslowski/MikhailKoslowski.github.io/raw/master/_imgs/mex/mex01.JPG)
+
 # Resumo
 
 Viajamos do dia 19/01/2015 ao dia 02/02/2015.
