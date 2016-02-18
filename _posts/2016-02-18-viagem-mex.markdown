@@ -78,47 +78,11 @@ Caso o papel seja extraviado será cobrada uma multa ao deixar o país. (Na épo
 
 O meu papel estava junto com o Passaporte quando eu entrei na água com os documentos e não foi danificado, não precisei pagar multa!
 
-# Transporte
+# [Transporte](/2016/02/18/transporte.html)
 
-## Aéreo Internacional
+# Atrações
 
-Pesquisamos várias opções de aéreo internacional para os dois aeroportos disponíveis na época: México DF e Cancún.
-Qualquer opção que envolvesse Cancún custava no mínimo 50% a mais.
-A melhor opção foi ida e volta pela Cidade do México com a TAM.
-
-Atualmente existe uma terceira opção de aéreo internacional por Puebla, os preços podem ser competitivos e Puebla está bem próxima da Capital e bem servida de transporte para a região.
-
-O valor total para dois passageiros, saindo de Curitiba com destino final México e escala em Guarulhos foi R$5642,46.
-
-O trecho de Guarulhos para o México tem [duração aproximada de 9h](https://pt.flightaware.com/live/flight/TAM8112) e é bem tranquilo. Apenas algumas turbulências na região próximo a Colômbia, mas nada que atrapalhe o sono (caso você consiga dormir no avião)
-
-## Aéreos Nacionais
-
-Vouchers estão no dropbox, consultar preços datas e etc.
-
-## Carro alugado
-
-Voucher no dropbox.
-
-## Taxi
-
-- YellowCab
-- Taxi Local
-- Taxi do Hotel
-
-## Ônibus entre cidades
-
-- Teotihuacán
-- ADO
-- Estrella Roja
-
-## Metrô
-
-- DF, menos de 1 Real.
-
-## Bicicleta
-
-- Mérida, não lembro o preço da hora, mas era algo como 5 Reais.
+[Plaza Garibaldi](/2016/02/18/plaza-garibaldi.html)
 
 # Hospedagem
 
