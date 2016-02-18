@@ -37,9 +37,9 @@ Voucher no dropbox.
 
 # Metrô
 
-[Site oficial](http://www.metro.cdmx.gob.mx/red/index.html)
-Tarifa: 5 MXN
-[Mapa das linhas para download](http://www.metro.cdmx.gob.mx/imagenes/red/redinternet.pdf)
+- [Site oficial](http://www.metro.cdmx.gob.mx/red/index.html)
+- Tarifa: 5 MXN
+- [Mapa das linhas para download](http://www.metro.cdmx.gob.mx/imagenes/red/redinternet.pdf)
 
 Andar de metrô foi bem tranquilo. Os bilhetes custavam 5 MXN (com o câmbio custou algo como 75 centavos!!) e com a quantidade de linhas disponíveis é possível ir para qualquer lugar na cidade com um único bilhete.
 
