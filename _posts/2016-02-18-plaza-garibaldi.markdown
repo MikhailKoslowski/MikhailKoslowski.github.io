@@ -12,7 +12,7 @@ A Praça Garibaldi fica a cerca de 1.5km do Zócalo (Praça principal do centro 
 
 # Como chegar?
 
-A melhor forma é de [Metrô](link para transportes/metro).
+A melhor forma é de [Metrô](/2016/02/18/transporte.html#metro).
 Dependendo da linha é possível descer direto na estação Garibaldi e caminhar menos de 1 minuto até a praça.
 Outra opção é caminhar 15min a partir do Zócalo.
 
