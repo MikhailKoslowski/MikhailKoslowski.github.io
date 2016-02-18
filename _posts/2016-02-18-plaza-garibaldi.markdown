@@ -3,7 +3,7 @@ published: true
 title: Plaza Garibaldi
 layout: post
 ---
-Para informações gerais e história consulte o [Site Oficial] (http://www.plazagaribaldi.com.mx)
+Para informações gerais e história consulte o [Site Oficial](http://www.plazagaribaldi.com.mx)
 
 # Onde fica?
 
