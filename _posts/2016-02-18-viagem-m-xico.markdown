@@ -28,7 +28,7 @@ Do dia 24 ao dia 31 estavamos de carro, então era muito fácil ir de um lado pa
 | 30/01 | Isla Mujeres | Cancun | Cirque du Soleil |
 | 31/01 | Vôo de volta CAN->MEX | México DF | -- |
 | 01/02 | -- | Vôo de volta MEX->GRU->CWB | -- |
-| 02/02 | Em casa! | | | |
+| 02/02 | Em casa! | | |
 
 # Por que o México?
 
