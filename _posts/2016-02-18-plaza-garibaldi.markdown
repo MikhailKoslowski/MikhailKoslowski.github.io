@@ -18,9 +18,24 @@ Outra opção é caminhar 15min a partir do Zócalo.
 
 # O que fazer?
 
-Comer: Salão Tenampas
-Beber: Museu da Tequila e Mezcal
+Na praça está localizado o [Museu da Tequila e Mezcal](http://www.mutemgaribaldi.mx/museo.html) onde é contada a história e o processo de produção destas bebidas, são expostas centenas de rótulos das mais diversas variedades e incluso no valor da entrada está uma degustação de tequila ou mezcal.
 
-Vários outros bares e restaurantes
+![](_imgs/mex/plazagaribaldi/museu.jpg)
 
-[Escola de Mariachis](http://www.cultura.df.gob.mx/index.php/de-mariachi-ollin-yoliztli-garibaldi)
+O Museu ainda tem uma breve história dos Mariachis, símbolos da Praça Garibaldi e presentes em toda parte.
+
+![](_imgs/mex/plazagaribaldi/instrumentos.jpg)
+
+O Museu abre todos os dias, e de quinta a domingo fica até as 02:30! Uma boa opção pra fazer um esquenta hahaha.
+
+Na praça também está localizada a [Escola de Mariachis](http://www.cultura.df.gob.mx/index.php/de-mariachi-ollin-yoliztli-garibaldi), e todas as noites dezenas de grupos se apresentam por lá. Normalmente eles oferecem "serenatas" para as pessoas e cobram por música!
+
+![](_imgs/mex/plazagaribaldi/mariachis.jpg)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/VCb9_0U1U1Y" frameborder="0" allowfullscreen></iframe>
+
+Além disso, ao redor da praça existem diversos bares e restaurantes competindo por público. Todos eles tem pessoas na frente convidando (as vezes insistentemente) para entrar.
+
+Nós fomos apenas a um desses restaurantes, o [Salón Tenampa](http://www.salontenampa.com). Um lugar bem agradável com comida muito boa e um preço justo.
+
+![](_imgs/mex/plazagaribaldi/tenampa.jpg)
