@@ -3,6 +3,7 @@ published: true
 title: Viagem México
 layout: post
 ---
+
 ![](https://github.com/MikhailKoslowski/MikhailKoslowski.github.io/raw/master/_imgs/mex/mex01.JPG)
 
 # Resumo
@@ -109,3 +110,5 @@ Aqui tem muuuita coisa pra colocar! Melhor colocar separado por lugar e em ordem
 ## Cenotes
 
 ## Praias
+
+# [Foto 3D!](https://github.com/MikhailKoslowski/MikhailKoslowski.github.io/raw/master/_imgs/mex/3d2.jpg)
