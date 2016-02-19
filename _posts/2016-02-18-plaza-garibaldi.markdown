@@ -3,6 +3,7 @@ published: true
 title: Plaza Garibaldi
 layout: post
 ---
+
 Para informações gerais e história consulte o [Site Oficial](http://www.plazagaribaldi.com.mx)
 
 # Onde fica?
@@ -22,7 +23,7 @@ Na praça está localizado o [Museu da Tequila e Mezcal](http://www.mutemgaribal
 
 ![](https://raw.githubusercontent.com/MikhailKoslowski/MikhailKoslowski.github.io/master/_imgs/mex/plazagaribaldi/museu.JPG)
 
-O Museu ainda tem uma breve história dos Mariachis, símbolos da Praça Garibaldi e presentes em toda parte.
+O Museu ainda tem uma breve história dos Mariachis, símbolos da cultura Mexicana e presentes em toda parte.
 
 ![](https://raw.githubusercontent.com/MikhailKoslowski/MikhailKoslowski.github.io/master/_imgs/mex/plazagaribaldi/instrumentos.JPG)
 
